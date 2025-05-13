@@ -11,6 +11,7 @@ This project investigates whether wealth is a reliable predictor of broadband ac
 - `david_ilouz_final.qmd` – the Quarto source file (run this to generate the report)
 - `david_ilouz_final.pdf` – rendered PDF output
 - `bdc_us_fixed_broadband_summary_by_geography_J24_29apr2025.csv` – broadband data from the FCC (I have removed most of the rows included n the original data set to include only those that will be used in this project due to size limitations)
+- `david_ilouz_final_write-up.pdf` – required write up companion to this project
 - `README.md` – this file
 
 ## Data Sources
